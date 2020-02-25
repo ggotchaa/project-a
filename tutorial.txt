@@ -1,0 +1,21 @@
+https://reactjs.org/tutorial/tutorial.html#prerequisites
+https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+https://stackoverflow.com/questions/51530030/error-cannot-find-module-html-webpack-plugin-webpack-react
+https://www.valentinog.com/blog/babel/
+https://stackoverflow.com/questions/35215461/error-in-cannot-find-module-babel-core-using-react-js-webpack-and-express-s
+https://github.com/babel/babel-upgrade
+https://stackoverflow.com/questions/52889188/cannot-find-module-babel-preset-es2015
+https://babeljs.io/docs/en/babel-preset-react
+https://codepen.io/jcar787/pen/PmLxGW
+https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
+https://www.freecodecamp.org/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/
+https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range
+https://stackoverflow.com/questions/29450399/counting-number-of-vowels-in-a-string-with-javascript
+https://stackoverflow.com/questions/4361585/how-to-check-if-a-variable-is-not-null
+https://stackoverflow.com/questions/36641249/javascript-vowell-or-consonant-function
+
+https://medium.com/@julienrioux/deploy-react-js-app-on-firebase-c7fa6ddc153f
+https://www.robinwieruch.de/firebase-deploy-react-js
+https://medium.com/swlh/how-to-deploy-a-react-app-with-firebase-hosting-98063c5bf425
+
+Hosting URL: https://project-a-79516.firebaseapp.com
